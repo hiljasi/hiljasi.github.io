@@ -10,6 +10,8 @@ Mandarin Chinese and Korean and listening to music. You can find some examples o
 songs in the Misc. section. I've also done eleven years of contemporary circus where I focused on main-à-main
 and other categories of pair acrobatics.
 
+[Résumé](https://www.overleaf.com/read/prghygzkhtbj)
+
 ## Find me on
 
 [Instagram](https://instagram.com/hiljasi), [GitHub](https://github.com/hiljasi)
