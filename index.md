@@ -5,7 +5,10 @@ layout: default
 ## Introduction
 
 This website is a homepage for the language technology course KIK-LG219 in Helsinki University.
-I am a linguistics freshman minoring in English and Asian culture studies.
+I am a linguistics freshman minoring in English and Asian culture studies. My hobbies include studying
+Mandarin Chinese and Korean and listening to music. You can find some examples of my current favourite
+songs in the Misc. section. I've also done eleven years of contemporary circus where I focused on main-à-main
+and other categories of pair acrobatics.
 
 ## Find me on
 
