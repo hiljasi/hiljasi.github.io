@@ -63,6 +63,8 @@ I found week 6 to be a bit difficult, since we learnt so many new things, but I 
 
 During the final week of the course, we learnt to use GitHub and version control. GitHub is s still quite a new tool/environment for me, since we only used it for a week on the course, but I can already see how useful it could be for someone who has a lot of LT projects going on. There are quite many commands that we learnt this week that are needed when using GitHub, for example
 
+| Command  	 | What it does	     	       	      	     |
+| ------------	 | ----------------------------------------  |
 | `git branch`	 | to check which branch you are using	     |
 | `git push` 	 | to push things to GitHub   	  	     |
 | `git pull`	 | to pull things from GitHub		     |
