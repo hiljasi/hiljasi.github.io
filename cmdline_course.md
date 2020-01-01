@@ -79,4 +79,4 @@ During the final week of the course, we learnt to use GitHub and version control
 * making and running scripts
 
 
-![alt text](https://data.whicdn.com/images/311237573/original.)
+![alt text](https://data.whicdn.com/images/311237573/original.jpg "picture")
