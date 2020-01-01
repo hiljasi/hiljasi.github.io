@@ -70,3 +70,10 @@ During the final week of the course, we learnt to use GitHub and version control
 | `git pull`	 | to pull things from GitHub		     |
 | `git clone`	 | to clone a directory from GitHub locally  |
 
+
+
+### Favourite things I learnt
+
+* using GitHub
+* the `sort`, `tr` and `uniq` commands
+* making and running scripts
