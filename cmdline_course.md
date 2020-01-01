@@ -36,7 +36,7 @@ We also learned the `sed` command. I remember having some issues with this week 
 
 ### Week 5
 
-During this week, we learned to write simple scripts. I was really excited for this week because writing scripts has always seemed so cool. We also learned conditional execution by the `if`command. For example, the one below would make it so that the script works only when there is one (and only one) command line argument accompanying the command.
+During this week, we learned to write simple scripts. I was really excited for this week because writing scripts has always seemed so cool. We also learned conditional execution by the `if` command. For example, the one below would make it so that the script works only when there is one (and only one) command line argument accompanying the command.
 
 ```
 if [ $# -ne 1]
@@ -50,7 +50,7 @@ We also leart how to edit the .bashrc/.bash_profile file which allowed me to cha
 
 ### Week 6
 
-This week we learned about installing software and python packages with ´sudo´ and ´apt-get´. For instance, the command below updates the already downloaded things.
+This week we learned about installing software and python packages with `sudo` and `apt-get`. For instance, the command below updates the already downloaded things.
 
 ```
 sudo apt-get update
@@ -64,7 +64,7 @@ I found week 6 to be a bit difficult, since we learnt so many new things, but I 
 During the final week of the course, we learnt to use GitHub and version control. GitHub is s still quite a new tool/environment for me, since we only used it for a week on the course, but I can already see how useful it could be for someone who has a lot of LT projects going on. There are quite many commands that we learnt this week that are needed when using GitHub, for example
 
 | `git branch`	 | to check which branch you are using	     |
-| ´git push´	 | to push things to GitHub   	  	     |
-| ´git pull´	 | to pull things from GitHub		     |
-| ´git clone`	 | to clone a directory from GitHub locally  |
+| `git push` 	 | to push things to GitHub   	  	     |
+| `git pull`	 | to pull things from GitHub		     |
+| `git clone`	 | to clone a directory from GitHub locally  |
 
